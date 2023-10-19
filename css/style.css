@@ -1,0 +1,13 @@
+i {
+    font-size: 4rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#nav-container {
+    display: flex;
+    justify-content: space-between;
+}
